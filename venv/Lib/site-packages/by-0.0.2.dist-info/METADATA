@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: by
+Version: 0.0.2
+Summary: selection tools
+Home-page: https://github.com/thorwhalen/ut/blob/master/pcoll/select.py
+Author: Thor Whalen
+License: mit
+Platform: any
+Description-Content-Type: text/markdown
+
+
+# by
+selection tools
+
+
+To install:	```pip install by```
+
+
